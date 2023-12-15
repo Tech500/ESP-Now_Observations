@@ -1,8 +1,8 @@
 /*****************************************************************
 
-  ESP32_Sender.ino  04/28/2023 @ 12:08 EDT  //One-Way Initiator Sketch
+  ESP_Now_Initiator.ino  04/28/2023 @ 12:08 EDT  //One-Way Initiator Sketch
   
-  William Lucid, Tech500
+  William Lucid, ab9nq
 
   Board:  ESP32 Pico Kit v4.1
   BME280 Breakout board
