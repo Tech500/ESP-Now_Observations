@@ -4,3 +4,5 @@ Initiator --BME280 sensor will be outside with LDO voltage regulator, powered by
 Review of RainGaugeCamera  https://drive.google.com/file/d/1jVIyO6i_P5gvWCB9zAlYb9DnKQcFbEun/view?usp=sharing 
 
 Using your credentials and info; edit "variableInput.h" prior to running sketch.
+
+Using a video camera with web server?  Edit camera-url and camera_name.  Videofeed is webRTC based.
