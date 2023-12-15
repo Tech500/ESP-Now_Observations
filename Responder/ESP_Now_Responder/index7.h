@@ -62,7 +62,7 @@ const char HTML7[] PROGMEM = R"====(
       <br><br>
     </header>
     <main>
-      <iframe class="iframe" width="1300" height="731"src="http://c600.duckdns.org:8889/backyard" frameborder="0"></iframe> 
+      <iframe class="iframe" width="1300" height="731"src="camera_url/camera_name" frameborder="0"></iframe> 
     </main>
     <footer>
       <h2><a href="http://%LINK%/Weather" >ESP32 Server</a></h2>  
